@@ -61,25 +61,25 @@ a:hover{
 
 .html {
   position: absolute;
-  right: 10%;
+  right: 9%;
   top: 7%;
 }
 
 .dev-pc {
   position: absolute;
-  left: 10%;
+  left: 9%;
   bottom: 7%;
 }
 
 .css-img {
   position: absolute;
-  left: 10%;
+  left: 9%;
   top: 7%;
 }
 
 .js-img {
   position: absolute;
-  right: 10%;
+  right: 9%;
   bottom: 7%;
 }
 
