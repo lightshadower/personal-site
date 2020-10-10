@@ -1,5 +1,4 @@
 body {
-
   margin: 0;
   text-align: center;
   font-family: 'Architects Daughter', cursive;
@@ -7,17 +6,22 @@ body {
 }
 
 h1 {
+  color: #3e978b;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Satisfy', cursive;
+
 }
 
 h2 {
+  color: #3e978b;
   font-size: 2.5rem;
   font-family: 'Amatic SC', cursive;
+
 }
 
 h3 {
+  color: #0e9aa7;
   font-family: 'Kaushan Script', cursive;
 }
 
@@ -25,24 +29,42 @@ h3 {
   background-color: #d2f5e3;
   position: relative;
   padding-top: 100px;
-}
-
-.middle_container {
 
 }
 
-.bottom_container {
+.middle_container {}
 
-}
+.bottom_container {}
 
-.code {
+.html {
   position: absolute;
-  right: 500px;
-  top: 50px;
+  right: 200px;
+  top: 100px;
 }
 
-.idealamp {
+.dev-pc {
   position: absolute;
-  left: 450px;
-  bottom: 200px;
+  left: 200px;
+  bottom: 100px;
+}
+
+.css-img{
+  position: absolute;
+  left: 200px;
+  top: 100px;
+}
+
+.js-img{
+  position: absolute;
+  right: 200px;
+  bottom: 100px;
+}
+
+.footer-link{
+  color: #0e9aa7;
+}
+
+.personal-title{
+  font-weight: normal;
+
 }
